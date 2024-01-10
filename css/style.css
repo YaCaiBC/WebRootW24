@@ -8,4 +8,10 @@
             background-color: pink;
         } */
         /* Other styles */
-  
+       .title{
+        background-color: lightblue;
+        }
+
+        .content{
+         background-color: lightsalmon;
+        }
